@@ -7,3 +7,6 @@ Deve ser compilado com java 1.6
 
 Executável pode ser baixado em :
 http://dsc.inf.furb.br/servicos/downloads/concursos-de-monitoria
+
+
+![Imagem do Projeto Eclipse]https://raw.githubusercontent.com/estrazulas/nerdsmassacration/master/imagens/imgEclipse.png
