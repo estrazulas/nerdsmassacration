@@ -1,5 +1,5 @@
 # nerdsmassacration
-Projeto feito em trabalho na disciplina de desenvolvimento de jogos na FURB por Daniel Severo Estrázulas
+Projeto feito em trabalho na disciplina de desenvolvimento de jogos na FURB por Daniel Severo Estrázulas , Juliana Erckmann Effting, Soraia Goede
 
 Engine 2D GTGE
 
