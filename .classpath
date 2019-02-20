@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="imagens"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="src" path="niveis"/>
+	<classpathentry kind="src" path="sons"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/golden_0_2_3.jar"/>
+	<classpathentry kind="lib" path="lib/GTGE_add_ons.jar"/>
+	<classpathentry kind="lib" path="lib/GTGE_GUI_0_1_0.jar"/>
+	<classpathentry kind="lib" path="lib/jl1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
